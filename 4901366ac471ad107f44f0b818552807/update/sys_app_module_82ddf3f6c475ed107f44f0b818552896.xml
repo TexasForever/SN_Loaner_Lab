@@ -5,38 +5,38 @@
         <assessment/>
         <device_type/>
         <filter/>
-        <hint/>
+        <hint>Search for Loaner Requests</hint>
         <homepage/>
         <image/>
-        <link_type>SEPARATOR</link_type>
+        <link_type>SEARCH</link_type>
         <map_page/>
-        <mobile_title>Loaner Request</mobile_title>
+        <mobile_title>Search</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name/>
-        <order>100</order>
+        <name>x_cdltd_loaner_req_loaner_request</name>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_cdltd_loaner_req.loaner_request_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-03-28 19:16:59</sys_created_on>
+        <sys_created_on>2023-03-29 19:28:21</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>b4d13eaac471ad107f44f0b81855280e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Loaner Request</sys_name>
+        <sys_id>82ddf3f6c475ed107f44f0b818552896</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Search</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">4901366ac471ad107f44f0b818552807</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">4901366ac471ad107f44f0b818552807</sys_scope>
-        <sys_update_name>sys_app_module_b4d13eaac471ad107f44f0b81855280e</sys_update_name>
+        <sys_update_name>sys_app_module_82ddf3f6c475ed107f44f0b818552896</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-03-29 19:32:07</sys_updated_on>
+        <sys_updated_on>2023-03-29 20:09:27</sys_updated_on>
         <timeline_page/>
-        <title>Loaner Request</title>
+        <title>Search</title>
         <uncancelable>false</uncancelable>
-        <view_name/>
+        <view_name>default</view_name>
         <window_name/>
     </sys_app_module>
 </record_update>
