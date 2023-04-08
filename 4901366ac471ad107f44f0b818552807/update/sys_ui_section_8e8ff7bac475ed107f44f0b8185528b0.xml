@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>bd39dcc3c4f5ed107f44f0b818552811</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>2e2e4f86c40ae9507f44f0b818552865</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>requested_for</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>f539dcc3c4f5ed107f44f0b818552812</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>662e4f86c40ae9507f44f0b818552866</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>assigned_to</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>f939dcc3c4f5ed107f44f0b818552812</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>6a2e4f86c40ae9507f44f0b818552866</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,167 +46,181 @@
             <element>cmdb_ci</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>fd39dcc3c4f5ed107f44f0b818552812</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>6e2e4f86c40ae9507f44f0b818552866</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pick_up_reminder</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>622e4f86c40ae9507f44f0b818552867</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>f139dcc3c4f5ed107f44f0b818552813</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>662e4f86c40ae9507f44f0b818552867</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>f539dcc3c4f5ed107f44f0b818552813</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>6a2e4f86c40ae9507f44f0b818552867</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>start_date</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>f939dcc3c4f5ed107f44f0b818552813</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>6e2e4f86c40ae9507f44f0b818552867</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>end_date</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>fd39dcc3c4f5ed107f44f0b818552813</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>622e4f86c40ae9507f44f0b818552868</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>item_type</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>f139dcc3c4f5ed107f44f0b818552814</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>662e4f86c40ae9507f44f0b818552868</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>location_to_be_used</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>f539dcc3c4f5ed107f44f0b818552814</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>6a2e4f86c40ae9507f44f0b818552868</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>depot</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>f939dcc3c4f5ed107f44f0b818552814</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>6e2e4f86c40ae9507f44f0b818552868</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>other</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>fd39dcc3c4f5ed107f44f0b818552814</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>622e4f86c40ae9507f44f0b818552869</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>f139dcc3c4f5ed107f44f0b818552815</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>662e4f86c40ae9507f44f0b818552869</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>f539dcc3c4f5ed107f44f0b818552815</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>6a2e4f86c40ae9507f44f0b818552869</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>14</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-03-29 21:27:12</sys_created_on>
-            <sys_id>f939dcc3c4f5ed107f44f0b818552815</sys_id>
+            <sys_created_on>2023-04-08 18:19:33</sys_created_on>
+            <sys_id>6e2e4f86c40ae9507f44f0b818552869</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_cdltd_loaner_req_loaner_request" sys_domain="global" view="Default view">8e8ff7bac475ed107f44f0b8185528b0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-03-29 21:27:12</sys_updated_on>
+            <sys_updated_on>2023-04-08 18:19:33</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
