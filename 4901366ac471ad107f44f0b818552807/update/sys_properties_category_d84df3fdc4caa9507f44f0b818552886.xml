@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Loaner Request</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-08 03:07:08</sys_created_on>
+        <sys_id>d84df3fdc4caa9507f44f0b818552886</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">4901366ac471ad107f44f0b818552807</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">4901366ac471ad107f44f0b818552807</sys_scope>
+        <sys_update_name>sys_properties_category_d84df3fdc4caa9507f44f0b818552886</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-08 03:08:15</sys_updated_on>
+        <title><![CDATA[<p><em><span style="font-size: 14pt;"><strong>Loaner Request Propertie</strong></span></em></p>
+<h1>Lorem Ipsum</h1>
+<h4>&#34;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...&#34;</h4>
+<h5>&#34;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain...&#34;</h5>
+<hr />
+<div id="Content">
+<div id="bannerL">
+<div id="lipsumcom_left_siderail" align="center">
+<div id="google_ads_iframe_/15184186,22440292294/lipsumcom_left_siderail_0__container__"> </div>
+</div>
+</div>
+<div>
+<div id="lipsum">
+<ul style="list-style-position: inside;"><li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li><li>Aliquam quis libero consectetur, tincidunt est id, consectetur libero.</li><li>Etiam congue ex sit amet leo vulputate, vel blandit metus tristique.</li><li>In aliquet ex vitae gravida lobortis.</li><li>Quisque consectetur mi interdum, gravida enim vel, aliquam enim.</li></ul>
+<p> </p>
+<p> </p>
+<ul style="list-style-position: inside;"><li>Cras in nisi iaculis, vehicula ante sed, lacinia dolor.</li><li>Nullam non libero vitae augue mollis fermentum.</li><li>Aenean euismod mi at purus vulputate, sit amet commodo magna tempus.</li><li>Phasellus at lorem nec urna mattis tincidunt eu sit amet enim.</li><li>Nulla congue mauris nec urna lobortis, sed bibendum ex commodo.</li><li>Nunc euismod dui at convallis ullamcorper.</li></ul>
+<p> </p>
+<p> </p>
+<ul style="list-style-position: inside;"><li>Fusce vel orci at nibh sodales tempor.</li><li>Aliquam porta nulla luctus, vehicula mi nec, dictum ex.</li><li>Donec mattis augue et orci gravida sagittis.</li><li>Phasellus ac erat mollis, pellentesque ex nec, molestie mauris.</li><li>Quisque quis dolor convallis, porttitor libero eu, dignissim felis.</li></ul>
+<p> </p>
+<p> </p>
+<ul style="list-style-position: inside;"><li>Pellentesque vitae orci non massa tempor scelerisque eget vel urna.</li><li>Suspendisse tempor nibh vel maximus malesuada.</li><li>Integer id arcu a diam molestie vulputate eu et mauris.</li><li>Aenean eget neque et sapien mattis vulputate.</li><li>Vivamus convallis arcu ac magna efficitur, et auctor dolor tincidunt.</li><li>Curabitur sollicitudin lacus sit amet justo pellentesque molestie.</li></ul>
+<p> </p>
+<p> </p>
+<ul style="list-style-position: inside;"><li>Sed at nisi sit amet quam condimentum egestas.</li><li>Vestibulum nec risus euismod, auctor nisi eget, fringilla lectus.</li><li>Nullam posuere leo nec mauris fringilla, sed aliquam purus maximus.</li><li>Pellentesque luctus magna id elit tempus viverra.</li></ul>
+</div>
+</div>
+</div>
+<p> </p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=d84df3fdc4caa9507f44f0b818552886"/>
+</record_update>
